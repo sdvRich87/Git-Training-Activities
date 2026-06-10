@@ -56,7 +56,7 @@ The base repository is where you forked, and your repository is where you will d
 
     You now have a local copy of your code to work with.
 
-2. Make a quick change to see how all of this works.
+2. Make a quick change to see how all of this works. Made Change.
 
     It doesn't matter what you do here, just add a file or modify an existing file, then save it.
 
